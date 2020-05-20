@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "connection with real time sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node src/"
+  },
+  "author": "collins kipkemoi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
